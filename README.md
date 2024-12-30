@@ -4,7 +4,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-<p align="left">I'm Grace, a passionate Full Stack Developer & Engineer from London <br><br>-  📚 I'm currently learning Flutter <br>- ⚡ In my free time I play sports /p>
+<p align="left">I'm Grace, a passionate Full Stack Developer & Engineer from London <br><br>-  📚 I'm currently learning Flutter <br>- ⚡ In my free time I play sports </p>
 
 ###
 
