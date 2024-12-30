@@ -1,5 +1,5 @@
+<img src="git-banner.png" />
 <h1 align="center">Hi 👋, I'm Grace</h1>
-
 
 <h3 align="left">👩‍💻  About Me</h3>
 
